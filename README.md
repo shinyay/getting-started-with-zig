@@ -4,6 +4,10 @@ This repository is just a hello world things related to Zig.
 
 ## Description
 
+Here's a little something I learned today about Zig.
+
+### What is Zig
+
 ## Demo
 
 ## Features
