@@ -24,6 +24,31 @@ brew install zig
 
 <https://marketplace.visualstudio.com/items?itemName=ziglang.vscode-zig>
 
+### Hello World
+
+#### 1. Create a Project
+
+```shell
+zig init-exe
+```
+
+```shell
+info: Created build.zig
+info: Created src/main.zig
+info: Next, try `zig build --help` or `zig build run`
+```
+
+#### 2. Build and Run a Project
+
+```shell
+zig build run
+```
+
+```shell
+All your codebase are belong to us.
+Run `zig build test` to run the tests.
+```
+
 ## Demo
 
 ## Features
