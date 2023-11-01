@@ -12,6 +12,18 @@ Here's a little something I learned today about Zig.
 
 > Zig is a minimal open-source, fully-featured systems programming language presented as a friendlier alternative to C. It has a minimal Rust-like syntax but maintains C’s simplicity.
 
+### Installation
+
+- Zig
+
+```shell
+brew install zig
+```
+
+- Zig Visual Studio Code Extension
+
+<https://marketplace.visualstudio.com/items?itemName=ziglang.vscode-zig>
+
 ## Demo
 
 ## Features
