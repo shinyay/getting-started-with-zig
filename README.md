@@ -1,6 +1,6 @@
-# Name
+# Getting Started with Zig
 
-Overview
+This repository is just a hello world things related to Zig.
 
 ## Description
 
