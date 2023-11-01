@@ -8,6 +8,8 @@ Here's a little something I learned today about Zig.
 
 ### What is Zig
 
+> Zig is a general-purpose programming language and toolchain for maintaining robust, optimal and reusable software.
+
 ## Demo
 
 ## Features
