@@ -21,8 +21,7 @@ brew install zig
 ```
 
 - Zig Visual Studio Code Extension
-
-<https://marketplace.visualstudio.com/items?itemName=ziglang.vscode-zig>
+  - <https://marketplace.visualstudio.com/items?itemName=ziglang.vscode-zig>
 
 ### Hello World
 
@@ -49,7 +48,42 @@ All your codebase are belong to us.
 Run `zig build test` to run the tests.
 ```
 
+#### 3. Project Tree
+
+```shell
+hello-zig/
+├── build.zig
+├── src
+│   └── main.zig
+├── zig-cache
+│   ├── h
+│   │   ├── 3054aebf2decda3508f60a8c63b33834.txt
+│   │   ├── 42ad41ca99580a09fb29d6e973803a65.txt
+│   │   └── timestamp
+│   ├── o
+│   │   ├── 74c27f1902f95e35c91bb05395a1a801
+│   │   │   └── dependencies.zig
+│   │   ├── 97eaf9e7b39acd2f6b89098d81acc854
+│   │   │   └── builtin.zig
+│   │   ├── b64c864e55217e095d70d0d1031142ba
+│   │   │   └── builtin.zig
+│   │   ├── c767af0a4f9c83a00da3bfe82f3a2529
+│   │   │   ├── hello-zig
+│   │   │   └── hello-zig.o
+│   │   └── e7f44074ff6445eff1a7fa11294b054a
+│   │       ├── build
+│   │       └── build.o
+│   ├── tmp
+│   └── z
+│       ├── 422b7cc7dfd23003fdfe7314599cf950
+│       └── b78f88b24cc6c1a13507ecfccf9702c3
+└── zig-out
+    └── bin
+        └── hello-zig
+```
 ## Demo
+
+
 
 ## Features
 
