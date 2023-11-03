@@ -23,6 +23,14 @@ brew install zig
 - Zig Visual Studio Code Extension
   - <https://marketplace.visualstudio.com/items?itemName=ziglang.vscode-zig>
 
+- Zig version (as of today): `0.11.0`
+
+```shell
+zig version
+
+0.11.0
+```
+
 ### Hello World
 
 #### 1. Create a Project
