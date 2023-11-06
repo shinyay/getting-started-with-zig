@@ -94,6 +94,8 @@ hello-zig/
 
 ### Sample Code - Hello world
 
+Let's take a look at the first sample code, Hello world.
+
 ```zig
 const std = @import("std");
 
