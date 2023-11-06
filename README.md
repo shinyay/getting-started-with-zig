@@ -110,6 +110,10 @@ pub fn main() void {
 const std = @import("std");
 ```
 
+`@import` builtin function finds a zig file corresponding to `path` and adds it to the build, if it is not already added.
+
+- [`@import`](https://ziglang.org/documentation/0.11.0/#import)
+
 ## Features
 
 - feature:1
