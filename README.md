@@ -133,6 +133,8 @@ For a public function, you can use `pub fn`
 
 ## References
 
+- [Zig Official](https://ziglang.org/)
+
 - [Zig Language Reference](https://ziglang.org/documentation/0.11.0/)
 
 - [Zig Standard Library](https://ziglang.org/documentation/master/std/#A;std)
