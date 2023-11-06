@@ -118,6 +118,8 @@ const std = @import("std");
 
 The `main` function is necessary because it tells the Zig compiler where the start of the program exists.
 
+For a public function, you can use `pub fn`
+
 ## Features
 
 - feature:1
