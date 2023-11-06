@@ -114,6 +114,10 @@ const std = @import("std");
 
 - [`@import`](https://ziglang.org/documentation/0.11.0/#import)
 
+#### `main` function
+
+The `main` function is necessary because it tells the Zig compiler where the start of the program exists.
+
 ## Features
 
 - feature:1
