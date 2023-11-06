@@ -104,6 +104,12 @@ pub fn main() void {
 }
 ```
 
+#### Zig Standard Library
+
+```zig
+const std = @import("std");
+```
+
 ## Features
 
 - feature:1
