@@ -90,6 +90,10 @@ hello-zig/
         └── hello-zig
 ```
 
+### O'Reilly - Getting Started Zig
+
+- [Getting Started Zig](https://learning.oreilly.com/videos/assimilate-zig/04112023VIDEOPAIML/04112023VIDEOPAIML-c1_s0/)
+
 ## Demo
 
 ### Sample Code - Hello world
